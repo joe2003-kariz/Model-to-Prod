@@ -39,7 +39,7 @@ You can use:
 * or `test.py`:
 
 ```bash
-python test.py
+python test_requests.py
 ```
 
 ### 4. Run Batch Prediction
@@ -54,7 +54,7 @@ Images in `Batch_Images/` will be processed, and results saved to `Batch_Results
 
 ## System Architecture
 
-![Architecture](Refund_Architecture.drawio)
+
 
 > The system includes:
 >
@@ -77,7 +77,7 @@ Images in `Batch_Images/` will be processed, and results saved to `Batch_Results
 
 **Your Name**
 Law Student & Data Scientist
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@joekariuki](https://github.com/joe2003-kariz)
 
 ---
 
