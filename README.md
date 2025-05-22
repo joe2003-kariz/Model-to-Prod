@@ -75,7 +75,7 @@ Images in `Batch_Images/` will be processed, and results saved to `Batch_Results
 
 ## Author
 
-**Your Name**
+**Joe Kariuki**
 Law Student & Data Scientist
 GitHub: [@joekariuki](https://github.com/joe2003-kariz)
 
